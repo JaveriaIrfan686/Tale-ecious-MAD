@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taleecious</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string-array name="story_list">
+        <item>Cousin Tribulations Story</item>
+        <item>The Story ofan Hour</item>
+        <item>The Tale of Peter Rabbit</item>
+        <item>A New England Nun</item>
+
+    </string-array>
+</resources>

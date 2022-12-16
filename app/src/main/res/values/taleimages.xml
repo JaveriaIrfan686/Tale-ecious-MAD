@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="taleImages">
+        <item>https://i.picsum.photos/id/399/200/200.jpg?hmac=LCWCFY16G50iBPpqU6-FCw79ovEqvznYsxoQNCIldV8</item>
+        <item>https://i.picsum.photos/id/217/200/300.jpg?hmac=3GPQ-pPnL4D8miCKA0qNqIg4zr5Ponvl9OVH83CeGuc</item>
+        <item>https://i.picsum.photos/id/607/200/300.jpg?hmac=ZEvzqI62NudR3rgqTkRZzFnlEeOt9z-b_i8VdLoTgoI</item>
+        <item>https://i.picsum.photos/id/339/200/300.jpg?hmac=rX8fDMMSNKZhzvcqJCduRuj33pXDgDlJiqOMqSuNwOo</item>
+        <item>https://i.picsum.photos/id/1012/200/200.jpg?hmac=kENwT0f1ecqbPzBGAw3ITKIrm1xoJdF0oh5tq6nosuM</item>
+        <item>https://i.picsum.photos/id/244/200/300.jpg?hmac=wik1JUmLjSI1ujhC7YXckSJhpxTId-Ul5HF5mcALqC8</item>
+        <item>https://i.picsum.photos/id/365/200/300.jpg?hmac=n_4DxqK0o938eabBZRnEywWtPwgF2MKoTfnRmJ7vlKQ</item>
+        <item>https://i.picsum.photos/id/393/200/300.jpg?hmac=zh8LVueWlQFz83Gn-9g49laZIMmCg_NC6jLkrQq0h5U</item>
+        <item>https://i.picsum.photos/id/434/200/300.jpg?hmac=OXYWBdR0QE1mGM2dKi1dktPcY5GckI3ClAgMsyszU-I</item>
+        <item>https://i.picsum.photos/id/970/200/300.jpg?hmac=8mPwdPFtAKcn0NQrEIClW3IlOWsKgskAikm_8YQj-qM</item>
+        <item>https://i.picsum.photos/id/476/200/200.jpg?hmac=QPKhNReQFJilT6PFUwm33_xa1DiivT32FbsWYE4evPU</item>
+        <item>https://i.picsum.photos/id/842/200/300.jpg?hmac=VSk5Mm2EuqIzLkckPneqxJrjhkmVquU3o-pEYmuGiTk</item>
+    </string-array>
+
+</resources>
